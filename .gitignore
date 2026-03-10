@@ -56,3 +56,4 @@ src/main/resources/log4j.properties
 # MacOS
 # ================================
 .DS_Store
+allure-results/
